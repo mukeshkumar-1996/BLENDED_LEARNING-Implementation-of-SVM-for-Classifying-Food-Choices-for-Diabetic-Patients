@@ -74,7 +74,5 @@ plt.show()
 <img width="567" height="269" alt="Screenshot 2026-03-17 200559" src="https://github.com/user-attachments/assets/f76f0a6c-6f82-4107-9ac7-1555e056a9ab" />
 <img width="807" height="581" alt="Screenshot 2026-03-17 200610" src="https://github.com/user-attachments/assets/513808f1-88bb-4d0e-be96-edde6e1a12e6" />
 
-
-
 ## Result:
 Thus, the SVM model was successfully implemented to classify food items for diabetic patients, with hyperparameter tuning optimizing the model's performance.
