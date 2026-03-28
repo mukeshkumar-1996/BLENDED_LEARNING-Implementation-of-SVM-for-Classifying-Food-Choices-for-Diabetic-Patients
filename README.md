@@ -9,11 +9,11 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
-
+1.Load the dataset and select features and target variable.
+2.Split the data into training and testing sets and apply feature scaling.
+3.Train the SVM model using GridSearchCV to find the best parameters.
+4.Predict the test data and evaluate the model using accuracy and classification report.
+5.Generate and display the confusion matrix to visualize model performance.
 ## Program:
 ```
 /*
